@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WeatherHere</string>
+    <string name="error_title">Oops ! Sorry !</string>
+    <string name="error_message">There is an Error, Please try again !</string>
+
+    <string name="error_ok_button">OK</string>
+    <string name="network_unavalible_message">Network is Unavalible !</string>
+    <string name="no_daily_forcast_data">There is no data to display !</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_day">DayActivity</string>
+    <string name="title_activity_day_li">DayLiActivity</string>
+    <string name="this_weeks_weather">This week\'s Weather</string>
+    <string name="current_location">Dhaka,Bangladesh</string>
+</resources>
